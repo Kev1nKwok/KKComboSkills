@@ -1,0 +1,16 @@
+
+ItemNameKey:
+  - "騎士長劍"
+  - "騎士長槍"
+
+ItemLoreKey: "騎士專屬"
+
+ComboCount: 3
+
+Combo:
+  RLR:
+    SkillID: "Test1"
+    Permission: "ap.騎士"
+  RRL:
+    SkillID: "Test2"
+    Permission: "騎士.組合技解鎖"

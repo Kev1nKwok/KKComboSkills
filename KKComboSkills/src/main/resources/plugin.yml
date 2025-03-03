@@ -1,0 +1,11 @@
+name: KKComboSkills
+version: '${project.version}'
+main: com.kevinkwok.kkcomboskills.KKComboSkills
+api-version: 1.12
+commands:
+  kkcskill:
+    description: "Hello World"
+    permission: KKComboSkills.admin
+    aliases: kkcs
+depend:
+  - MythicMobs
